@@ -5,7 +5,7 @@ module.exports = {
   entry: './src/js/index.js',
   output: {
     filename: 'index.js',
-    path: path.resolve(__dirname, 'build/js'),
+    path: path.resolve(__dirname, 'docs/js'),
   },
   module: {
     rules: [
@@ -37,8 +37,8 @@ module.exports = {
   plugins: [
     new CopyPlugin({
       patterns: [
-        { from: "./src/index.html", to: path.resolve(__dirname, 'build') },
-        { from: "./src/img", to: path.resolve(__dirname, 'build/img') }
+        { from: "./src/index.html", to: path.resolve(__dirname, 'docs') },
+        { from: "./src/img", to: path.resolve(__dirname, 'docs/img') }
       ],
     }),
   ],
