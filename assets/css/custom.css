@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'freighttext_black';
+    src: url('../fonts/freight_text_black-webfont.woff2') format('woff2'),
+    url('../fonts/freight_text_black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'freighttext_black';
+}
+
+h1 {
+    font-size: 3.5rem !important;
+}
+
+.fa-times-circle {
+    color:#E3E9EE
+}
