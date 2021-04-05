@@ -5,12 +5,9 @@ Celui qui vous accompagne dans toutes vos courses d'Alpinisme, d'Escalade, de Ca
 
 ## Comment nous aider
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
+La campagne sera lancée prochainement via Ulule, [à cette adresse](https://fr.ulule.com/the-summits-book/) !
 
 ## The Website is here !
+
 [The Summits Book](https://the.summitsbook.com/)
 
